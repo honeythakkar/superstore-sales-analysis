@@ -1,6 +1,5 @@
 # Superstore Sales Analysis — End-to-End Data Pipeline & Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange) ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-lightblue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 
