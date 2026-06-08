@@ -6,10 +6,10 @@
 An end-to-end data analytics project on the Superstore retail dataset — covering data cleaning, MySQL database design, business analysis SQL queries, and an interactive Tableau dashboard.
 
 **Key Results:**
-- 💰 $2.30M Total Sales | $286.40K Total Profit | 12.47% Profit Margin
-- 🏆 West region led all regions with $0.73M in sales
-- 📱 Phones and Chairs tied as top sub-categories at $0.33M each
-- ⚠️ Furniture had the lowest profit margin despite strong sales volume
+- $2.30M Total Sales | $286.40K Total Profit | 12.47% Profit Margin
+- West region led all regions with $0.73M in sales
+- Phones and Chairs tied as top sub-categories at $0.33M each
+- Furniture had the lowest profit margin despite strong sales volume
 
 ---
 
